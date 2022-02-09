@@ -1,0 +1,12 @@
+----AddNew----
+
+Age= 321
+Name= вы
+SurName= вы
+_______----ShowAll----
+
+id= 1
+Age= 321
+Name= вы
+SurName= вы
+_______
